@@ -1,0 +1,53 @@
+[
+  {
+    "batch_size": 64,
+    "num_workers": 4,
+    "trial_count": 3,
+    "steady_state_mean_training_epoch_seconds_mean": 2.7967066261931213,
+    "steady_state_mean_training_epoch_seconds_std": 0.2449135681291308,
+    "steady_state_mean_epoch_response_seconds_mean": 2.9733366738156684,
+    "steady_state_mean_epoch_response_seconds_std": 0.2684175698277593,
+    "steady_state_mean_training_throughput_mean": 16261.96456243125,
+    "steady_state_mean_training_throughput_std": 1325.1605599287584,
+    "best_validation_accuracy_mean": 0.8046666666666666,
+    "best_validation_accuracy_std": 0.006649310741222226,
+    "final_validation_accuracy_mean": 0.7938,
+    "final_validation_accuracy_std": 0.014749915253993816,
+    "total_training_seconds_mean": 51.947328933378834,
+    "total_training_seconds_std": 4.047118285834036
+  },
+  {
+    "batch_size": 128,
+    "num_workers": 4,
+    "trial_count": 3,
+    "steady_state_mean_training_epoch_seconds_mean": 2.5116549095186027,
+    "steady_state_mean_training_epoch_seconds_std": 0.19893141867720274,
+    "steady_state_mean_epoch_response_seconds_mean": 2.6827124619047114,
+    "steady_state_mean_epoch_response_seconds_std": 0.2157611598703788,
+    "steady_state_mean_training_throughput_mean": 18009.74369763868,
+    "steady_state_mean_training_throughput_std": 1382.2244605084184,
+    "best_validation_accuracy_mean": 0.7964,
+    "best_validation_accuracy_std": 0.0037363083384538676,
+    "final_validation_accuracy_mean": 0.7896,
+    "final_validation_accuracy_std": 0.00350428309358705,
+    "total_training_seconds_mean": 47.95817183324834,
+    "total_training_seconds_std": 2.8991216307929535
+  },
+  {
+    "batch_size": 256,
+    "num_workers": 4,
+    "trial_count": 3,
+    "steady_state_mean_training_epoch_seconds_mean": 2.495566188097222,
+    "steady_state_mean_training_epoch_seconds_std": 0.14371094052817845,
+    "steady_state_mean_epoch_response_seconds_mean": 2.6689433357151713,
+    "steady_state_mean_epoch_response_seconds_std": 0.15267714663654922,
+    "steady_state_mean_training_throughput_mean": 18088.213507918772,
+    "steady_state_mean_training_throughput_std": 1032.181772414029,
+    "best_validation_accuracy_mean": 0.7939333333333334,
+    "best_validation_accuracy_std": 0.01115407249991376,
+    "final_validation_accuracy_mean": 0.7914666666666667,
+    "final_validation_accuracy_std": 0.013460064388157025,
+    "total_training_seconds_mean": 47.932332566706464,
+    "total_training_seconds_std": 2.126800199678493
+  }
+]

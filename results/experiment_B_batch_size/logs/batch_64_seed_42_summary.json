@@ -1,0 +1,16 @@
+{
+  "run": "batch_64_seed_42",
+  "batch_size": 64,
+  "num_workers": 4,
+  "trial_seed": 42,
+  "best_epoch": 14,
+  "best_validation_accuracy": 0.8056,
+  "final_validation_accuracy": 0.7862,
+  "first_epoch_training_seconds": 12.062802399974316,
+  "steady_state_mean_training_epoch_seconds": 2.5602843785683427,
+  "steady_state_mean_epoch_response_seconds": 2.714516428573656,
+  "steady_state_mean_training_throughput": 17606.180404119285,
+  "total_training_seconds": 47.90678369993111,
+  "total_epoch_response_seconds": 59.45069240004523,
+  "checkpoint": "results\\experiment_B_batch_size\\checkpoints\\batch_64_seed_42_best.pt"
+}
